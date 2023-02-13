@@ -9,4 +9,4 @@ Besides, I am currently working on ***IIoT*** with regard to ***cyber security**
 
 > If you're interested in the work I do, please consider contacting me!
 
-Find me on <a rel="me" href="www.linkedin.com/in/florian-kraskowski">linkedIn</a>.
+Find me on <a href="www.linkedin.com/in/florian-kraskowski"><img src="https://img.shields.io/badge/-@kraskowski-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/florian-kraskowski" alt="LinkedIn Badge"></a>   
