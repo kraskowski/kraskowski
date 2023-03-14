@@ -2,9 +2,9 @@
 
 ### Digital enthusiast with a big passion for transformation and innovation. 
 
-I'm a ***Project Engineer / Project Manager*** at DB with the focus on telecommunications and infrastructre. Before that, I worked in the automotive and aviation industry with a focus for ***digitalization and continuous improvement***. 
+I'm a ***Project Manager*** at DB with the focus on IT and telecommunication infrastructre. Before that, I worked in the automotive and aviation industry with a focus for ***digitalization and continuous improvement***. 
 
-During this time, I learned about topics like ***IIoT*** and ***Digital Twin***, which I have been excited about ever since. Based on this, I used my expertise to create a ***Blockchain Architecture for the Internet-of-Things*** as part of my master's thesis. 
+During this time, I learned about topics like ***IIoT*** and ***Digital Twin***, which I have been excited about ever since. Based on this, I used my expertise to create a ***Blockchain Architecture for the Internet-of-Things***. 
 Besides, I am currently working on ***IIoT*** with regard to ***cyber security*** and ***digital twin***. 
 
 > If you're interested in the work I do, please consider contacting me!
